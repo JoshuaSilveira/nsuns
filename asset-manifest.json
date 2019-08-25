@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nsuns/static/css/main.1fce661d.chunk.css",
+    "main.js": "/nsuns/static/js/main.04dd0b82.chunk.js",
+    "main.js.map": "/nsuns/static/js/main.04dd0b82.chunk.js.map",
+    "runtime~main.js": "/nsuns/static/js/runtime~main.a63ebaa3.js",
+    "runtime~main.js.map": "/nsuns/static/js/runtime~main.a63ebaa3.js.map",
+    "static/js/2.af0cd1c8.chunk.js": "/nsuns/static/js/2.af0cd1c8.chunk.js",
+    "static/js/2.af0cd1c8.chunk.js.map": "/nsuns/static/js/2.af0cd1c8.chunk.js.map",
+    "index.html": "/nsuns/index.html",
+    "precache-manifest.b78507b4448084965244b19b8b1750d8.js": "/nsuns/precache-manifest.b78507b4448084965244b19b8b1750d8.js",
+    "service-worker.js": "/nsuns/service-worker.js",
+    "static/css/main.1fce661d.chunk.css.map": "/nsuns/static/css/main.1fce661d.chunk.css.map",
+    "static/media/logo.svg": "/nsuns/static/media/logo.5d5d9eef.svg"
+  }
+}
